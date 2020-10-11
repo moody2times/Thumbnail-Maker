@@ -53,6 +53,12 @@ input[type="file"] {
   color 500ms ease-out;
 }
 
+/* styling for enter episode number input label */
+.episode-number-label {
+  border: none;
+  width: 100%;
+}
+
 #downloader {
   height: calc(5vh + 20px);
   background: var(--themeColor);
